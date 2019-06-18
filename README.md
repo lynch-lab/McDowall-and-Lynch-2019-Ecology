@@ -1,3 +1,6 @@
+###DOI for repo
+10.5281/zenodo.3247945
+
 ### Installation
 Follow the instructions at https://www.scipy.org/install.html to install numpy.
 
