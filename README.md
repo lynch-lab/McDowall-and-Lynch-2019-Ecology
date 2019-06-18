@@ -1,5 +1,5 @@
 ### DOI for repo
-10.5281/zenodo.3247945
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3247945.svg)](https://doi.org/10.5281/zenodo.3247945)
 
 ### Installation
 Follow the instructions at https://www.scipy.org/install.html to install numpy.
